@@ -6,3 +6,7 @@ g++ day2part1.cpp -o build/d2p1
 g++ day2part2.cpp -o build/d2p2
 ./build/d2p1
 ./build/d2p2
+g++ day3part1.cpp -o build/d3p1
+g++ day3part2.cpp -o build/d3p2
+./build/d3p1
+./build/d3p2
