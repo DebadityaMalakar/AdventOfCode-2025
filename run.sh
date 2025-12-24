@@ -10,3 +10,8 @@ g++ day3part1.cpp -o build/d3p1
 g++ day3part2.cpp -o build/d3p2
 ./build/d3p1
 ./build/d3p2
+g++ day4part1.cpp -o build/d4p1
+g++ day4part2.cpp -o build/d4p2
+./build/d4p1
+./build/d4p2
+g++ day5part1.cpp -o build/d5p1
